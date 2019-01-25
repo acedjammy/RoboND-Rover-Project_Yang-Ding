@@ -1,3 +1,3 @@
 # RoboND-Rover-Project_Yang-Ding
 Project 1 at Udacity Robotics Nanodegree
-![alt text](https://github.com/acedjammy/RoboND-Rover-Project_Yang-Ding/tree/master/image/1.png)
+![alt text](RoboND-Rover-Project_Yang-Ding/image/1.PNG)
